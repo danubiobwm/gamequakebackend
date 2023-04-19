@@ -7,7 +7,7 @@
     "node": ">=18"
   },
   "scripts": {
-    "dev": "tsx watch src/server.ts",
+    "dev": "tsx watch src/app.ts",
     "lint": "eslint src --ext .ts --fix",
     "build": "tsup src --out-dir build",
     "test": "vitest"

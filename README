@@ -1,0 +1,9 @@
+Rota GET / para verificar se o servidor está em execução:
+Método: GET
+URL: http://localhost:3333/api/v1/games
+
+Rota GET /games para obter a lista de todos os jogos:
+Método: GET
+URL: http://localhost:3333/api/v1/games/:id
+Substitua :id pelo ID real do jogo que você deseja buscar.
+
